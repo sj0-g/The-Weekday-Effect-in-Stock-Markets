@@ -1,0 +1,503 @@
+Nvidia|Technology - Semiconductors
+Microsoft|Technology - Software
+Apple Inc.|Technology - Consumer Electronics
+Amazon|Consumer Discretionary - E-commerce
+Meta Platforms|Technology - Social Media
+Broadcom|Technology - Semiconductors
+Alphabet Inc. (Class A)|Technology - Internet Services
+Alphabet Inc. (Class C)|Technology - Internet Services
+Tesla, Inc.|Consumer Discretionary - Automotive
+Berkshire Hathaway|Financials - Diversified
+Oracle Corporation|Technology - Software
+Walmart|Consumer Staples - Retail
+JPMorgan Chase|Financials - Banking
+Lilly (Eli)|Healthcare - Pharmaceuticals
+Visa Inc.|Financials - Payments
+Netflix|Communication Services - Streaming
+Mastercard|Financials - Payments
+ExxonMobil|Energy - Oil & Gas
+Johnson & Johnson|Healthcare - Pharmaceuticals
+Palantir Technologies|Technology - Software
+Costco|Consumer Staples - Retail
+AbbVie|Healthcare - Pharmaceuticals
+Bank of America|Financials - Banking
+Home Depot (The)|Consumer Discretionary - Retail
+Advanced Micro Devices|Technology - Semiconductors
+Procter & Gamble|Consumer Staples - Personal Care
+UnitedHealth Group|Healthcare - Insurance
+GE Aerospace|Industrials - Conglomerate
+Chevron Corporation|Energy - Oil & Gas
+Coca-Cola Company (The)|Other - Diversified
+Cisco|Technology - Networking
+Wells Fargo|Other - Diversified
+Morgan Stanley|Other - Diversified
+IBM|Other - Diversified
+T-Mobile US|Communication Services - Telecom
+Caterpillar Inc.|Other - Diversified
+Philip Morris International|Other - Diversified
+Goldman Sachs|Other - Diversified
+American Express|Other - Diversified
+Salesforce|Other - Diversified
+Abbott Laboratories|Other - Diversified
+McDonald's|Other - Diversified
+Micron Technology|Technology - Semiconductors
+Linde plc|Other - Diversified
+RTX Corporation|Other - Diversified
+Merck & Co.|Other - Diversified
+PepsiCo|Consumer Staples - Food & Beverage
+AppLovin Corporation|Other - Diversified
+Walt Disney Company (The)|Other - Diversified
+Uber|Other - Diversified
+Thermo Fisher Scientific|Other - Diversified
+ServiceNow|Other - Diversified
+BlackRock|Other - Diversified
+AT&T|Other - Diversified
+Citigroup|Other - Diversified
+Intuit|Technology - Software
+Lam Research|Technology - Semiconductors
+Applied Materials|Technology - Semiconductors
+Arista Networks|Other - Diversified
+Qualcomm|Technology - Semiconductors
+GE Vernova|Other - Diversified
+NextEra Energy|Energy - Oil & Gas
+Intel|Technology - Semiconductors
+Charles Schwab Corporation|Other - Diversified
+Booking Holdings|Consumer Discretionary - Travel
+Verizon|Other - Diversified
+Boeing|Other - Diversified
+TJX Companies|Other - Diversified
+Texas Instruments|Technology - Semiconductors
+Amgen|Healthcare - Biotechnology
+Intuitive Surgical|Healthcare - Medical Devices
+Amphenol|Other - Diversified
+Accenture|Other - Diversified
+S&P Global|Other - Diversified
+Danaher Corporation|Other - Diversified
+Eaton Corporation|Other - Diversified
+Gilead Sciences|Healthcare - Biotechnology
+Boston Scientific|Other - Diversified
+Stryker Corporation|Other - Diversified
+Palo Alto Networks|Technology - Cybersecurity
+Adobe Inc.|Technology - Software
+Pfizer|Other - Diversified
+KLA Corporation|Technology - Semiconductors
+Capital One|Financials - Banking
+Lowe's|Other - Diversified
+Union Pacific Corporation|Other - Diversified
+Progressive Corporation|Other - Diversified
+Honeywell|Industrials - Conglomerate
+Blackstone Inc.|Other - Diversified
+CrowdStrike|Technology - Cybersecurity
+Medtronic|Other - Diversified
+Constellation Energy|Utilities - Electric
+Robinhood Markets, Inc.|Other - Diversified
+Deere & Company|Other - Diversified
+Lockheed Martin|Other - Diversified
+Automatic Data Processing|Technology - Business Services
+DoorDash|Other - Diversified
+Analog Devices|Technology - Semiconductors
+KKR|Other - Diversified
+Welltower|Other - Diversified
+Chubb Limited|Other - Diversified
+ConocoPhillips|Other - Diversified
+Comcast|Communication Services - Media
+Southern Company|Other - Diversified
+Altria|Other - Diversified
+Prologis|Other - Diversified
+Vertex Pharmaceuticals|Healthcare - Biotechnology
+Dell Technologies|Technology - Software
+Marsh McLennan|Other - Diversified
+Nike, Inc.|Other - Diversified
+Newmont|Other - Diversified
+CVS Health|Healthcare - Pharmaceuticals
+Duke Energy|Energy - Oil & Gas
+HCA Healthcare|Healthcare - Pharmaceuticals
+McKesson Corporation|Other - Diversified
+CME Group|Other - Diversified
+Trane Technologies|Technology - Software
+Parker Hannifin|Other - Diversified
+Starbucks|Consumer Discretionary - Restaurants
+Intercontinental Exchange|Other - Diversified
+General Dynamics|Other - Diversified
+Cadence Design Systems|Technology - Software
+Northrop Grumman|Other - Diversified
+Coinbase Global|Other - Diversified
+Bristol Myers Squibb|Other - Diversified
+Waste Management|Other - Diversified
+O'Reilly Auto Parts|Consumer Discretionary - Retail
+Moody's Corporation|Other - Diversified
+American Tower|Other - Diversified
+Royal Caribbean Group|Other - Diversified
+Sherwin-Williams|Other - Diversified
+Synopsys|Technology - Software
+3M|Other - Diversified
+Cigna|Other - Diversified
+Mondelez International|Consumer Staples - Food & Beverage
+Equinix|Other - Diversified
+Elevance Health|Healthcare - Pharmaceuticals
+Howmet Aerospace|Industrials - Manufacturing
+Aon|Other - Diversified
+Arthur J. Gallagher & Co.|Other - Diversified
+Ecolab|Other - Diversified
+Motorola Solutions|Other - Diversified
+Williams Companies|Other - Diversified
+BNY Mellon|Other - Diversified
+Airbnb|Consumer Discretionary - Travel
+Cintas|Industrials - Business Services
+Apollo Global Management|Other - Diversified
+U.S. Bancorp|Other - Diversified
+TransDigm Group|Other - Diversified
+Corning Inc.|Other - Diversified
+Emerson Electric|Utilities - Electric
+Marriott International|Consumer Discretionary - Hotels
+Illinois Tool Works|Other - Diversified
+PNC Financial Services|Financials - Banking
+United Parcel Service|Other - Diversified
+Johnson Controls|Other - Diversified
+Vistra Corp.|Other - Diversified
+Republic Services|Other - Diversified
+AutoZone|Consumer Discretionary - Retail
+CSX Corporation|Industrials - Transportation
+Fiserv|Other - Diversified
+Monster Beverage|Consumer Staples - Beverages
+PayPal|Financials - Payments
+Norfolk Southern Railway|Other - Diversified
+Autodesk|Technology - Software
+TE Connectivity|Other - Diversified
+Quanta Services|Other - Diversified
+United Rentals|Other - Diversified
+Fortinet|Technology - Cybersecurity
+Zoetis|Other - Diversified
+Hilton Worldwide|Other - Diversified
+Workday, Inc.|Technology - Software
+American Electric Power|Utilities - Electric
+Colgate-Palmolive|Other - Diversified
+Travelers Companies (The)|Other - Diversified
+Cencora|Other - Diversified
+Freeport-McMoRan|Other - Diversified
+Kinder Morgan|Other - Diversified
+Regeneron Pharmaceuticals|Healthcare - Biotechnology
+Sempra|Other - Diversified
+EOG Resources|Other - Diversified
+Aflac|Other - Diversified
+Digital Realty|Technology - Software
+Air Products|Other - Diversified
+Cummins|Other - Diversified
+Simon Property Group|Real Estate
+Truist Financial|Financials - Banking
+Chipotle Mexican Grill|Other - Diversified
+Datadog|Technology - Cloud Services
+Marathon Petroleum|Energy - Oil & Gas
+Axon Enterprise|Other - Diversified
+FedEx|Other - Diversified
+L3Harris|Other - Diversified
+Roper Technologies|Technology - Software
+NXP Semiconductors|Technology - Semiconductors
+MetLife|Other - Diversified
+General Motors|Other - Diversified
+Allstate|Other - Diversified
+Becton Dickinson|Other - Diversified
+Realty Income|Other - Diversified
+Phillips 66|Other - Diversified
+Public Storage|Other - Diversified
+Dominion Energy|Energy - Oil & Gas
+Nasdaq, Inc.|Other - Diversified
+Idexx Laboratories|Healthcare - Diagnostics
+Valero Energy|Energy - Oil & Gas
+Paccar|Industrials - Manufacturing
+Ross Stores|Consumer Discretionary - Retail
+Electronic Arts|Technology - Gaming
+Fastenal|Industrials - Distribution
+Carrier Global|Other - Diversified
+Schlumberger|Other - Diversified
+Garmin|Other - Diversified
+Exelon|Utilities - Electric
+Xcel Energy|Utilities - Electric
+Monolithic Power Systems|Technology - Software
+Take-Two Interactive|Other - Diversified
+Block, Inc.|Other - Diversified
+CBRE Group|Other - Diversified
+D. R. Horton|Other - Diversified
+Ford Motor Company|Other - Diversified
+Paychex|Technology - Business Services
+American International Group|Other - Diversified
+Seagate Technology|Technology - Software
+W. W. Grainger|Other - Diversified
+Ameriprise Financial|Financials - Banking
+Kroger|Other - Diversified
+Warner Bros. Discovery|Communication Services - Media
+Baker Hughes|Energy - Services
+ONEOK|Other - Diversified
+Copart|Industrials - Business Services
+Entergy|Other - Diversified
+Edwards Lifesciences|Healthcare - Pharmaceuticals
+Ametek|Other - Diversified
+Corteva|Other - Diversified
+Crown Castle|Other - Diversified
+MSCI|Other - Diversified
+Occidental Petroleum|Energy - Oil & Gas
+eBay|Consumer Discretionary - E-commerce
+Diamondback Energy|Energy - Oil & Gas
+Vulcan Materials Company|Other - Diversified
+Public Service Enterprise Group|Other - Diversified
+Target Corporation|Other - Diversified
+Delta Air Lines|Other - Diversified
+Western Digital|Technology - Software
+Yum! Brands|Other - Diversified
+Fair Isaac|Other - Diversified
+Kimberly-Clark|Other - Diversified
+Martin Marietta Materials|Other - Diversified
+ResMed|Other - Diversified
+Agilent Technologies|Technology - Software
+Rockwell Automation|Consumer Discretionary - Retail
+Carnival|Other - Diversified
+Hershey Company (The)|Other - Diversified
+Sysco|Other - Diversified
+WEC Energy Group|Energy - Oil & Gas
+Consolidated Edison|Other - Diversified
+Hartford (The)|Other - Diversified
+Charter Communications|Communication Services - Media
+Cardinal Health|Healthcare - Pharmaceuticals
+Prudential Financial|Financials - Banking
+PG&E Corporation|Other - Diversified
+Keurig Dr Pepper|Consumer Staples - Beverages
+Xylem Inc.|Other - Diversified
+Otis Worldwide|Other - Diversified
+Fidelity National Information Services|Other - Diversified
+Microchip Technology|Technology - Semiconductors
+Live Nation Entertainment|Consumer Discretionary - Retail
+IQVIA|Other - Diversified
+Estée Lauder Companies (The)|Other - Diversified
+Arch Capital Group|Financials - Banking
+Verisk Analytics|Technology - Data Analytics
+United Airlines Holdings|Other - Diversified
+EQT Corporation|Other - Diversified
+Wabtec|Other - Diversified
+Willis Towers Watson|Other - Diversified
+Hewlett Packard Enterprise|Other - Diversified
+GE HealthCare|Healthcare - Medical Equipment
+Las Vegas Sands|Energy - Oil & Gas
+Cognizant|Technology - IT Services
+Vici Properties|Other - Diversified
+DuPont|Other - Diversified
+State Street Corporation|Other - Diversified
+Targa Resources|Other - Diversified
+NRG Energy|Energy - Oil & Gas
+Supermicro|Other - Diversified
+Raymond James Financial|Financials - Banking
+CoStar Group|Technology - Real Estate Tech
+Nucor|Other - Diversified
+Interactive Brokers Group|Other - Diversified
+Lennar|Other - Diversified
+Humana|Other - Diversified
+Ingersoll Rand|Other - Diversified
+Kenvue|Other - Diversified
+Brown & Brown|Other - Diversified
+Extra Space Storage|Other - Diversified
+Ventas|Other - Diversified
+Iron Mountain|Other - Diversified
+EMCOR Group, Inc.|Other - Diversified
+Archer Daniels Midland|Other - Diversified
+Kraft Heinz|Consumer Staples - Food & Beverage
+W. R. Berkley Corporation|Other - Diversified
+Tractor Supply|Other - Diversified
+DTE Energy|Energy - Oil & Gas
+M&T Bank|Financials - Banking
+Kellanova|Other - Diversified
+Old Dominion|Industrials - Transportation
+Keysight Technologies|Technology - Software
+Fifth Third Bancorp|Other - Diversified
+Atmos Energy|Energy - Oil & Gas
+Equifax|Other - Diversified
+Ameren|Other - Diversified
+PPL Corporation|Other - Diversified
+Expedia Group|Other - Diversified
+American Water Works|Other - Diversified
+Rollins, Inc.|Other - Diversified
+Broadridge Financial Solutions|Financials - Banking
+FirstEnergy|Energy - Oil & Gas
+HP Inc.|Other - Diversified
+Synchrony Financial|Financials - Banking
+Teledyne Technologies|Technology - Software
+Mettler Toledo|Other - Diversified
+AvalonBay Communities|Other - Diversified
+Eversource Energy|Energy - Oil & Gas
+Dexcom|Healthcare - Medical Devices
+General Mills|Other - Diversified
+CenterPoint Energy|Energy - Oil & Gas
+Veralto|Other - Diversified
+The Trade Desk, Inc.|Technology - Advertising
+PulteGroup|Other - Diversified
+Cboe Global Markets|Other - Diversified
+Verisign|Other - Diversified
+Cincinnati Financial|Financials - Banking
+International Paper|Other - Diversified
+First Solar|Other - Diversified
+Constellation Brands|Other - Diversified
+Tapestry, Inc.|Other - Diversified
+Northern Trust|Financials - Banking
+Ulta Beauty|Other - Diversified
+Expand Energy|Energy - Oil & Gas
+Leidos|Other - Diversified
+PTC Inc.|Other - Diversified
+Huntington Bancshares|Other - Diversified
+NetApp|Other - Diversified
+Equity Residential|Other - Diversified
+Steris|Other - Diversified
+T. Rowe Price|Other - Diversified
+Williams-Sonoma|Other - Diversified
+LabCorp|Other - Diversified
+Dollar General|Other - Diversified
+Hubbell Incorporated|Other - Diversified
+Citizens Financial Group|Financials - Banking
+PPG Industries|Other - Diversified
+Regions Financial Corporation|Financials - Banking
+Dover Corporation|Other - Diversified
+Insulet Corporation|Other - Diversified
+Teradyne|Other - Diversified
+CMS Energy|Energy - Oil & Gas
+Smurfit WestRock|Other - Diversified
+Tyler Technologies|Technology - Software
+Jabil|Other - Diversified
+Darden Restaurants|Consumer Discretionary - Retail
+Edison International|Other - Diversified
+Steel Dynamics|Other - Diversified
+Biogen|Healthcare - Biotechnology
+NVR, Inc.|Other - Diversified
+Loews Corporation|Other - Diversified
+Church & Dwight|Other - Diversified
+Global Payments|Other - Diversified
+Texas Pacific Land Corporation|Other - Diversified
+Devon Energy|Energy - Oil & Gas
+Dollar Tree|Consumer Discretionary - Retail
+ON Semiconductor|Technology - Semiconductors
+Quest Diagnostics|Other - Diversified
+SBA Communications|Communication Services - Media
+NiSource|Other - Diversified
+Lululemon Athletica|Consumer Discretionary - Apparel
+Corpay|Other - Diversified
+Waters Corporation|Other - Diversified
+KeyCorp|Other - Diversified
+CDW|Other - Diversified
+Ralph Lauren Corporation|Other - Diversified
+Halliburton|Other - Diversified
+F5, Inc.|Other - Diversified
+Zimmer Biomet|Other - Diversified
+Paramount Skydance Corp|Other - Diversified
+Jacobs Solutions|Other - Diversified
+Packaging Corporation of America|Other - Diversified
+Tyson Foods|Consumer Staples - Food & Beverage
+West Pharmaceutical Services|Healthcare - Pharmaceuticals
+Amcor|Other - Diversified
+Gartner|Other - Diversified
+Genuine Parts Company|Other - Diversified
+Trimble Inc.|Other - Diversified
+Lennox International|Other - Diversified
+GoDaddy|Other - Diversified
+Pentair|Other - Diversified
+Aptiv|Other - Diversified
+Principal Financial Group|Financials - Banking
+Evergy|Other - Diversified
+Centene Corporation|Other - Diversified
+Coterra|Other - Diversified
+McCormick & Company|Other - Diversified
+Southwest Airlines|Other - Diversified
+Snap-on|Other - Diversified
+Alliant Energy|Energy - Oil & Gas
+Invitation Homes|Other - Diversified
+Bunge Global|Other - Diversified
+Weyerhaeuser|Other - Diversified
+Essex Property Trust|Financials - Banking
+Erie Indemnity|Other - Diversified
+Incyte|Other - Diversified
+Gen Digital|Technology - Software
+Fortive|Other - Diversified
+Best Buy|Other - Diversified
+International Flavors & Fragrances|Other - Diversified
+Expeditors International|Other - Diversified
+Dow Inc.|Other - Diversified
+TKO Group Holdings|Other - Diversified
+Mid-America Apartment Communities|Other - Diversified
+Omnicom Group|Other - Diversified
+Textron|Other - Diversified
+LyondellBasell|Other - Diversified
+Allegion|Other - Diversified
+C.H. Robinson|Other - Diversified
+Zebra Technologies|Technology - Software
+Everest Group|Other - Diversified
+Deckers Brands|Other - Diversified
+Kimco Realty|Other - Diversified
+Clorox|Other - Diversified
+Hologic|Other - Diversified
+Masco|Other - Diversified
+Domino's|Other - Diversified
+Cooper Companies (The)|Other - Diversified
+Builders FirstSource|Other - Diversified
+CF Industries|Other - Diversified
+J.B. Hunt|Other - Diversified
+Hormel Foods|Consumer Staples - Food & Beverage
+Nordson Corporation|Other - Diversified
+BrownForman|Other - Diversified
+Universal Health Services|Healthcare - Pharmaceuticals
+Ball Corporation|Other - Diversified
+Alexandria Real Estate Equities|Real Estate
+Regency Centers|Other - Diversified
+Healthpeak Properties|Healthcare - Pharmaceuticals
+Avery Dennison|Other - Diversified
+Solventum|Other - Diversified
+Fox Corporation (Class B)|Other - Diversified
+Fox Corporation (Class A)|Other - Diversified
+IDEX Corporation|Other - Diversified
+Wynn Resorts|Other - Diversified
+UDR, Inc.|Other - Diversified
+Franklin Resources|Other - Diversified
+Baxter International|Other - Diversified
+Viatris|Other - Diversified
+Huntington Ingalls Industries|Other - Diversified
+Albemarle Corporation|Other - Diversified
+Paycom|Other - Diversified
+Globe Life|Other - Diversified
+Host Hotels & Resorts|Consumer Discretionary - Retail
+Pinnacle West|Other - Diversified
+Jack Henry & Associates|Other - Diversified
+Assurant|Other - Diversified
+BXP, Inc.|Other - Diversified
+Camden Property Trust|Financials - Banking
+Generac|Other - Diversified
+Skyworks Solutions|Other - Diversified
+Norwegian Cruise Line Holdings|Other - Diversified
+J.M. Smucker Company (The)|Other - Diversified
+FactSet|Other - Diversified
+Pool Corporation|Other - Diversified
+Dayforce|Other - Diversified
+Akamai Technologies|Technology - Software
+Stanley Black & Decker|Other - Diversified
+Revvity|Other - Diversified
+Invesco|Other - Diversified
+Molina Healthcare|Healthcare - Pharmaceuticals
+AES Corporation|Other - Diversified
+Hasbro|Other - Diversified
+Moderna|Healthcare - Biotechnology
+News Corp (Class A)|Other - Diversified
+Interpublic Group of Companies (The)|Other - Diversified
+A. O. Smith|Other - Diversified
+Mosaic Company (The)|Other - Diversified
+Align Technology|Healthcare - Medical Devices
+Molson Coors Beverage Company|Consumer Staples - Food & Beverage
+Bio-Techne|Technology - Software
+DaVita|Other - Diversified
+Campbell Soup Company|Other - Diversified
+Lamb Weston|Other - Diversified
+MGM Resorts|Other - Diversified
+Conagra Brands|Other - Diversified
+Federal Realty Investment Trust|Financials - Banking
+Charles River Laboratories|Other - Diversified
+APA Corporation|Other - Diversified
+EPAM Systems|Technology - Software
+Mohawk Industries|Other - Diversified
+Match Group|Other - Diversified
+Henry Schein|Other - Diversified
+LKQ Corporation|Other - Diversified
+Eastman Chemical Company|Other - Diversified
+CarMax|Other - Diversified
+News Corp (Class B)|Other - Diversified
